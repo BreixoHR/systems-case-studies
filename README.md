@@ -1,6 +1,6 @@
 # Systems Case Studies
 
-Casos reales de **sistemas e infraestructura** de una agencia de turismo con decenas de webs de venta: contingencia, rendimiento, migraciones, QA de integraciones, red, sala de servidores y analítica.
+Casos reales de **sistemas, infraestructura y arquitectura** de una agencia de turismo con decenas de webs de venta: contingencia, rendimiento, migraciones, QA de integraciones, red, sala de servidores y analítica.
 
 Para cada caso se cuenta el problema, la decisión que se tomó y su motivo, y lo que haría distinto hoy. Dos de ellos incluyen una **herramienta funcional y testeada**.
 
@@ -16,6 +16,9 @@ Para cada caso se cuenta el problema, la decisión que se tomó y su motivo, y l
 | 06 | [Dimensionamiento de una sala de servidores](cases/06-sala-de-servidores.md) | Hardware / eléctrico | |
 | 07 | [Google Tag Gateway con CloudFront](cases/07-google-tag-gateway.md) | Analítica / CDN | |
 | 08 | [Archivado de ficheros de Salesforce y recuperación](cases/08-archivado-de-ficheros-salesforce.md) | Costes / datos | |
+| 09 | [Arquitectura: revisiones automáticas de reservas, antes y después de la compra](cases/09-revisiones-automaticas-de-reservas.md) | Arquitectura | |
+| 10 | [Arquitectura: entrega y recuperación de entradas](cases/10-entrega-y-recuperacion-de-entradas.md) | Arquitectura | |
+| 11 | [Diseño: plataforma multitenant para las webs del grupo](cases/11-plataforma-multitenant-de-landings.md) | Arquitectura | |
 
 ## Herramientas
 
