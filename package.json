@@ -1,0 +1,7 @@
+{
+  "name": "systems-case-studies",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test" }
+}
